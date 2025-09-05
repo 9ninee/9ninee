@@ -61,7 +61,7 @@
 - **Key Skills**: Project Management, Surveying Techniques, Geospatial Analysis
 - **Developed**: Strong attention to detail, spatial awareness, technical drawing
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Survey Assistant | Nottingham Trent University (Sep 2023 - Aug 2024)
 - Collected room utilization data across multiple university buildings
