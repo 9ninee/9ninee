@@ -87,27 +87,17 @@ A locally hosted web application that allows users to import bank statements, au
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigelli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9ninee&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nigelli&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9ninee&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nigelli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nigelli/count.svg" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=9ninee&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🏅 Certifications
@@ -126,7 +116,7 @@ A locally hosted web application that allows users to import bank statements, au
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nigel_lee1998@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nigel-li)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nigelli)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9ninee)
 
 ## 🌍 Languages
 
@@ -134,22 +124,10 @@ A locally hosted web application that allows users to import bank statements, au
 - **Cantonese** - Native
 - **Mandarin** - Native
 
-## 🎵 Currently Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Playing" />
-</div>
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nigelli/nigelli/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nigelli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=9ninee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
