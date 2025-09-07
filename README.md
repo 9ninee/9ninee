@@ -60,11 +60,9 @@
 
 ## 💼 Experience
 
-### Survey Assistant | Nottingham Trent University (Sep 2023 - Aug 2024)
-- Collected room utilization data across multiple university buildings
-- Recorded occupancy levels and activity types with high accuracy
-- Worked independently while maintaining consistent data quality
-- Contributed to operational efficiency through reliable data collection
+### Utilization Survey Assistant  | Nottingham Trent University (Sep 2023 - Aug 2024)
+-	Collected 60 + room utilization data across 5 university buildings to support space planning and resource allocation.
+-	Worked independently entirely and managed to work under restricted time frame.
 
 ### Cert Mentor | Nottingham Trent University (Sep 2022 - Aug 2023)
 - Provided proactive support to first-year students
